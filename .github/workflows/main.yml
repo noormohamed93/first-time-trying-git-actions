@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - name: 'printing folder contents'
-        run: pwd
+        run: ls
 
         -name: 'Testing printing'
          run: echo Ahmed
